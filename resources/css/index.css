@@ -27,13 +27,11 @@ h2, h3, h4 {
     border-bottom: 1px solid seashell;
     z-index: 20;
     margin-left: 0px;
-
 }
 
 .header img {
     height: 50px;
     padding-left: 10px;
-
 }
 
 .nav {
@@ -42,12 +40,9 @@ h2, h3, h4 {
 }
 
 .nav span {
-   text-decoration: underline;
    flex-wrap: wrap;
    padding-right: 20px;
-
 }
-
 .nav a {
    color: seashell;
    }
@@ -55,7 +50,6 @@ h2, h3, h4 {
 /* content*/
 
 .content {
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -71,12 +65,10 @@ h2, h3, h4 {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
 }
 .mission-text {
     background: black;
     text-align: center;
-
     width: 100%;
 }
 
@@ -109,7 +101,7 @@ h2, h3, h4 {
     width: 1200px;
     height: 500px;
     background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
-     display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
